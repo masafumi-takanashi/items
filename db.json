@@ -1,0 +1,27 @@
+[
+  {
+    "itemId":"10001",
+    "itemName":"ネックレス",
+    "itemCategory":"ジュエリ"
+  },
+  {
+    "itemId":"10002",
+    "itemName":"パーカー",
+    "itemCategory":"ファッション"
+  },
+  {
+    "itemId":"10003",
+    "itemName":"フェイスクリーム",
+    "itemCategory":"ビューティ"
+  },
+  {
+    "itemId":"10004",
+    "itemName":"サプリメント",
+    "itemCategory":"ヘルス"
+  },
+  {
+    "itemId":"10005",
+    "itemName":"ブルーベリー",
+    "itemCategory":"フード"
+  }
+]
